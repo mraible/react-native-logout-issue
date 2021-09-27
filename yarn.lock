@@ -1096,10 +1096,10 @@
     "core-js" "^3.15.1"
     "jsonpath-plus" "^5.1.0"
 
-"@okta/okta-react-native@2.1.0":
-  "integrity" "sha512-Gu+3kxdVZ5iK7ek7KIJEgKXBnA8SmJGf8Edh4PHr5HAUZYuylfCqn7VAxtTNVh6R7mQ/6RFP8qjqjJlfIrBiAA=="
-  "resolved" "https://registry.npmjs.org/@okta/okta-react-native/-/okta-react-native-2.1.0.tgz"
-  "version" "2.1.0"
+"@okta/okta-react-native@2.1.1":
+  "integrity" "sha512-LVV5KWZJf9Wny+Gr51t6F20AefZY8Fir/gnI9qzkpH0el4ygbJoxK9VlNYzrNncac+lGMfgCXnm4NFDfcJEPww=="
+  "resolved" "https://registry.npmjs.org/@okta/okta-react-native/-/okta-react-native-2.1.1.tgz"
+  "version" "2.1.1"
   dependencies:
     "@okta/configuration-validation" "^1.0.0"
     "@okta/okta-auth-js" "5.4.1"
